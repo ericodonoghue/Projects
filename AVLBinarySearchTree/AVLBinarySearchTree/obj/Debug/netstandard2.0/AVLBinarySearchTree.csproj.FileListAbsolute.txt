@@ -1,0 +1,3 @@
+C:\Users\erico\source\repos\Projects\AVLBinarySearchTree\AVLBinarySearchTree\obj\Debug\netstandard2.0\AVLBinarySearchTree.csprojAssemblyReference.cache
+C:\Users\erico\source\repos\Projects\AVLBinarySearchTree\AVLBinarySearchTree\obj\Debug\netstandard2.0\AVLBinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\erico\source\repos\Projects\AVLBinarySearchTree\AVLBinarySearchTree\obj\Debug\netstandard2.0\AVLBinarySearchTree.AssemblyInfo.cs

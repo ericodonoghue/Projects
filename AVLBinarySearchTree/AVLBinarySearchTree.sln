@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVLBinarySearchTree", "AVLBinarySearchTree\AVLBinarySearchTree.csproj", "{BCDF31E8-CD35-4DAD-BD06-8257362CE240}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCDF31E8-CD35-4DAD-BD06-8257362CE240}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCDF31E8-CD35-4DAD-BD06-8257362CE240}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCDF31E8-CD35-4DAD-BD06-8257362CE240}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCDF31E8-CD35-4DAD-BD06-8257362CE240}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6FDC546-F596-4DEB-BED0-B322A4D98798}
+	EndGlobalSection
+EndGlobal
